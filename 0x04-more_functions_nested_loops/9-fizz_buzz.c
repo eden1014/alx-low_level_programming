@@ -29,9 +29,13 @@ else
 printf("%d", i);
 }
 if (i != 100)
-putchar(' ');
+{
+_putchar(' ');
+}
 else
-putchar('\n');
+{
+_putchar('\n');
+}
 }
 return (0);
 }

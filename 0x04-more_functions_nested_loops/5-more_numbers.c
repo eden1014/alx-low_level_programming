@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void mor_numbers(void)
+void more_numbers(void)
 {
 int i, j, a;
 

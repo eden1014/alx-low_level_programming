@@ -7,7 +7,7 @@
  * Return: zero
  */
 
-int maun(void)
+int main(void)
 {
 int sum;
 char c;

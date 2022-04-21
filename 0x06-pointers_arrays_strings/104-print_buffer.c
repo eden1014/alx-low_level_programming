@@ -53,6 +53,7 @@ void printASCII(char *b, int start, int end)
 		i++;
 	}
 }
+
 /**
  * print_buffer - prints a buffer
  * @b: string
